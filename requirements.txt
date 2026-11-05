@@ -1,0 +1,8 @@
+# 依赖清单,pip install -r requirements.txt直接下载依赖
+pytest
+requests
+pyyaml
+allure-pytest
+pytest-order
+pytest-rerunfailures
+pytest-xdist

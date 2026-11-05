@@ -1,0 +1,26 @@
+# Python 缓存与字节码
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# pytest 与 allure 生成物
+.pytest_cache/
+reports/
+allure-results/
+allure-report/
+
+# IDE 与编辑器
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# 敏感配置与本地产物
+config.py
+.env
+*.log
