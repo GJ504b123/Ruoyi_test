@@ -24,3 +24,6 @@ allure-report/
 config.py
 .env
 *.log
+
+# 无关文件
+面经/
